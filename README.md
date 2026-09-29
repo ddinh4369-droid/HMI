@@ -1,6 +1,6 @@
-file 1 mở trong Factory IO
-file 2 mở trong TIA Portal V20
-file 3 mở trong S7 - PCLSIM V20
+file 1 mở trong Factory IO;
+file 2 mở trong TIA Portal V20;
+file 3 mở trong S7 - PCLSIM V20;
 Bước 1: mở 3 app trên
 Bước 2: mở file Nhom2_FactoryIO_Template_S7-1200_V20_Version1.ap20 trong TIA Portal V20
 Bước 3: mở thư mục Nhom2_PLCSIMV20_Version1
