@@ -1,6 +1,0 @@
-HÌNH THIẾT BỊ CLO – WINCC RT ADVANCED V20
-
-16 ảnh thiết bị .emf; tên từng file ứng với mã thiết bị trong mô hình.
-Trong TIA Portal mở màn hình Process_Cl2, thêm Graphic view rồi chọn biểu tượng ... ở thuộc tính Graphic để nhập file EMF.
-Ảnh thiết bị là hình tĩnh. Vẽ Line/Circle/Bar trên hình và gắn HMI tag để thấy dòng Clo và mức bồn thay đổi.
-Ảnh gốc .png nền trong suốt cũng dùng trực tiếp được trong WinCC nếu định dạng EMF hiển thị nền không mong muốn.

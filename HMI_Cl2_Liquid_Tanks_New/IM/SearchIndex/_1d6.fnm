@@ -1,20 +1,0 @@
-þÿÿÿÌ###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAcknowledgementModelIdEmailAddressAcknowledgedText
-ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
-ServerName
-PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
-LogoutTimeDataType	BackColor	GridColor
-LineColor1
-LineColor2OperatableAreaColor
-VisibilityCommonAlarmClassStationNamePartnerNameNodeNameTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCodingPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
-StartValueAddressAccessMode
-ConnectionBackFillStyleBorderBackColorBorderColor	EdgeStyleFlashingFont	ForeColorHorizontalAlignmentLayerTextTextOrientationVerticalAlignmentAboveUpperLimitColorBelowLowerLimitColorEvenRowBackColorModeSelectBackColorSelectForeColorTextOffTextOn
-DataFormatFormatPatternUnitPropertyNameTagValueForPropertyTagPageUITypeEditorBitPositionUITypeEditorStartvalueUITypeEditorEndvalueUITypeEditorTagExpressionAcknowledgementBitAddress
-AlarmClassPlcAcknowledgementBitAddressTriggerBitAddress
-TriggerTag	AlarmTextAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
-FilterText
-FocusColorGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeSCL CodeText.0Text.1Text.2GridlineAxisGridlineFillColorGridlineStyleHelpText
-RulerColor
-ScaleColorTableGridlineColorTimeAxisModeTimeAxisSidePathRestartOptionsStorageMediaThresholdBehaviorAcquisitionModeLoggingCycleProcessTagTypeNameToleranceOption
-ProcessTagInstance DBAddressRangeFromToAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientationScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorFirstGradientColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorVerticalPictureAlignment	FunctionsAdaptPicture
-AutoSizingPictureTransparentColorColorEndStyle	FillStyleLineEndShapeStyle
-StartStyleStyle
