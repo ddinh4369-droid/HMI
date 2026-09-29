@@ -13,4 +13,4 @@ file 3 mở trong S7 - PCLSIM V20;
 - Trong Factory IO ấn F4, chọn PCLSIM 1200 -> connect
 Bước 6: ấn chạy thử, mở start, stop trên bảng điều khiển
 - stop -> start -> realse stop
-* Fact: xem số hàng thì vào watch and force tables -> Forcetabelle -> Monitor all
+* Fact: xem số lượng hàng thì vào watch and force tables -> Forcetabelle -> Monitor all
